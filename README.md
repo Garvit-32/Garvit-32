@@ -8,7 +8,7 @@
   <img align="left" alt="Garvit Garg | Instagram" width="20px" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/instagram.png" />
 </a>
 <a href="mailto:garg.11@iitj.ac.in">
-  <img align="left" alt="Garvit Garg | Gmail" width="20px" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/gmail.png" />
+  <img align="left" alt="Garvit Garg | Gmail" width="21px" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/gmail.png" />
 </a>
 <br/>
 &nbsp;
