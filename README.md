@@ -1,8 +1,8 @@
 ### Hi there, I'm [Garvit!](https://garvit-32.github.io) 👋
 
 <br/>
-<br/>
 Hi, I'm Garvit Garg, pursuing Electrical Engineering from Indian Institute of Technology, Jodhpur.
+
 <br />
 I'm broadly interested in deep learning, with the applications at the intersection of computer vision. 
 
