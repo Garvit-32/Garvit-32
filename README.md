@@ -2,9 +2,8 @@
 
 <br/>
 Hi, I'm Garvit Garg, pursuing Electrical Engineering from Indian Institute of Technology, Jodhpur.
+I'm broadly interested in deep learning, with the applications at the intersection of computer vision. 
 
-- I'm broadly interested in deep learning, with the applications at the intersection of computer vision. 
-- 
 
 <br/>
 **Languages and Tools:**
