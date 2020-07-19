@@ -9,15 +9,15 @@
 </a>
 <a href="mailto:garg.11@iitj.ac.in">
   <img align="left" alt="Garvit Garg | Gmail" width="20px" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/gmail.png" />
-</a>
+</a>\
+
+\
 
 
-
-
-<br/>
 Hi, I'm Garvit Garg, pursuing Electrical Engineering from Indian Institute of Technology, Jodhpur.
 <br/>
-I'm broadly interested in deep learning, with the applications at the intersection of computer vision. 
+I'm broadly interested in deep learning, with the applications at the intersection of computer vision. \
+\
 
 
 **Languages and Tools:**
