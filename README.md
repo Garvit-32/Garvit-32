@@ -5,8 +5,6 @@ Hi, I'm Garvit Garg, pursuing Electrical Engineering from Indian Institute of Te
 <br/>
 I'm broadly interested in deep learning, with the applications at the intersection of computer vision. 
 
-<br/>
-<code><br/></code>
 
 **Languages and Tools:**
 
