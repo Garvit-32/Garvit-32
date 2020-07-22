@@ -15,11 +15,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?labelColor=ffffff&style=flat&logo=Instagram&logoColor=C13584)](https://www.instagram.com/g_a_r_v_it/)
 
 
-
-
-
-
-<br/>
 &nbsp;
 
 
