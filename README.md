@@ -12,7 +12,7 @@
 </a> -->
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/garvit-garg-6a3248197/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?labelColor=ffffff&style=flat&logo=Gmail&logoColor=red)](mailto:garg.11@iitj.ac.in)
-[![Instagram](https://img.shields.io/badge/-Instagram-C13584?labelColor=ffffff&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/g_a_r_v_it/)
+[![Instagram](https://img.shields.io/badge/-Instagram-C13584?labelColor=ffffff&style=flat&logo=Instagram&logoColor=C13584)](https://www.instagram.com/g_a_r_v_it/)
 
 
 
