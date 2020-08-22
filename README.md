@@ -32,11 +32,10 @@ I'm broadly interested in deep learning, with the applications at the intersecti
 <code><img width="40" height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/javascript.png"></code>
 <code><img width="40" height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/vue.png"></code>
 <code><img width="40" height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/bootstrap.png"></code>
-<code><img width="40" height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/bootstrap.png"></code>
-<code><img width="40" height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/bootstrap.png"></code>
-<code><img width="40" height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/bootstrap.png"></code>
-<code><img width="40" height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/bootstrap.png"></code>
-
+<code><img width="40" height="40" src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg"></code>
+<code><img width="40" height="40" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img width="40" height="40" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"></code>
 
 
 ![Garvit's github stats](https://github-readme-stats.vercel.app/api?username=garvit-32&show_icons=true&title_color=fff&icon_color=7510F7&text_color=daf7dc&bg_color=151515)
