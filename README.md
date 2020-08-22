@@ -32,5 +32,6 @@ I'm broadly interested in deep learning, with the applications at the intersecti
 <code><img height="30" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/javascript.png"></code>
 <code><img height="30" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/vue.png"></code>
 <code><img height="30" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/bootstrap.png"></code>
+<code><img height="30" src="https://camo.githubusercontent.com/7f446cc5286f8848fca282b72a361e0696cf3096/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f646a616e676f2f646a616e676f2d6f726967696e616c2e737667"></code>
 
 ![Garvit's github stats](https://github-readme-stats.vercel.app/api?username=garvit-32&show_icons=true&title_color=fff&icon_color=7510F7&text_color=daf7dc&bg_color=151515)
