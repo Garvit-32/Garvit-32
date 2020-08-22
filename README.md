@@ -32,7 +32,7 @@ I'm broadly interested in deep learning, with the applications at the intersecti
 <code><img height="30" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/javascript.png"></code>
 <code><img height="30" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/vue.png"></code>
 <code><img height="30" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/bootstrap.png"></code>
-<p align="left"><img height="40" width="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/python.png"></p>
+<p align="left"><img height="40" width="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/python.png"><img height="40" width="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/tensorflow.png"><img height="40" width="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/opencv.png"><img height="40" width="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/javascript.png"><img height="40" width="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/vue.png"><img height="40" width="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/bootstrap.png"></p>
 
 
 ![Garvit's github stats](https://github-readme-stats.vercel.app/api?username=garvit-32&show_icons=true&title_color=fff&icon_color=7510F7&text_color=daf7dc&bg_color=151515)
