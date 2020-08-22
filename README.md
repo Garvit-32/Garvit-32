@@ -26,15 +26,15 @@ I'm broadly interested in deep learning, with the applications at the intersecti
 
 **Languages and Tools:**
 
-<code><img height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/python.png"></code>
-<code><img height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/tensorflow.png"></code>
-<code><img height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/opencv.png"></code>
-<code><img height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/javascript.png"></code>
-<code><img height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/vue.png"></code>
-<code><img height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/bootstrap.png"></code>
-<code><img height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/bootstrap.png"></code>
-<code><img height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/bootstrap.png"></code>
-<code><img height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/bootstrap.png"></code>
+<code><img width="40" height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/python.png"></code>
+<code><img width="40" height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/tensorflow.png"></code>
+<code><img width="40" height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/opencv.png"></code>
+<code><img width="40" height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/javascript.png"></code>
+<code><img width="40" height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/vue.png"></code>
+<code><img width="40" height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/bootstrap.png"></code>
+<code><img width="40" height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/bootstrap.png"></code>
+<code><img width="40" height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/bootstrap.png"></code>
+<code><img width="40" height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/bootstrap.png"></code>
 <code><img width="40" height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/bootstrap.png"></code>
 
 
