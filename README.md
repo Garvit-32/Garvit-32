@@ -1,4 +1,4 @@
-### Hi there, I'm [Garvit!](https://garvit-32.github.io) 👋
+### Hi there, I'm [Garvit!](https://garvit-32.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 <!--<a href="https://www.linkedin.com/in/garvit-garg-6a3248197/">
