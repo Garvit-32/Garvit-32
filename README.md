@@ -1,4 +1,4 @@
-### Hi there, I'm [Garvit!](https://garvit-32.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm [Garvit!](http://home.iitj.ac.in/~garg.11/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 <!--<a href="https://www.linkedin.com/in/garvit-garg-6a3248197/">
@@ -26,16 +26,17 @@ I'm broadly interested in deep learning, with the applications at the intersecti
 
 **Languages and Tools:**
 
-<code><img width="40" height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/python.png"></code>
-<code><img width="40" height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/tensorflow.png"></code>
-<code><img width="40" height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/opencv.png"></code>
-<code><img width="40" height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/javascript.png"></code>
-<code><img width="40" height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/vue.png"></code>
-<code><img width="40" height="40" src="https://github.com/Garvit-32/Garvit-32/blob/master/assests/bootstrap.png"></code>
-<code><img width="40" height="40" src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg"></code>
-<code><img width="40" height="40" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img width="40" height="40" src="assests/python.png"></code>
+<code><img width="40" height="40" src="assests/pytorch.png"></code>
+<code><img width="40" height="40" src="assests/tensorflow.png"></code>
+<code><img width="40" height="40" src="assests/keras.png"></code>
+<code><img width="40" height="40" src="assests/opencv.png"></code>
+<code><img width="40" height="40" src="assests/javascript.png"></code>
+<code><img width="40" height="40" src="assests/cpp.jpg"></code>
+<code><img width="40" height="40" src="assests/django.png"></code>
+<code><img width="40" height="40" src="assests/vue.png"></code>
+<code><img width="40" height="40" src="assests/bootstrap.png"></code>
 <code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-<code><img width="40" height="40" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"></code>
 
 ![](https://komarev.com/ghpvc/?username=Garvit-32&style=flat-square)
 
